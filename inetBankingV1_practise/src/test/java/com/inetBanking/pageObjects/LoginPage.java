@@ -42,6 +42,11 @@ public class LoginPage {
 		btnLogin.click();
 	}
 	
+	// extra method delete this
+	public void clickubmit()
+	{
+		btnLogin.click();
+	}
 		
 		
 		
